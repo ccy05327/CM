@@ -1,5 +1,7 @@
 # Computational Mathematics
 
+[Notes from me](https://github.com/ccy05327/CM/tree/main/Notes)
+
 ## Resources
 
 ### Textbook
