@@ -9,6 +9,9 @@
 #### Main
 [Foundation Maths. by Croft, Anthony., Davison, Robert.pdf](https://github.com/ccy05327/CM/files/6357066/Foundation.Maths.by.Croft.Anthony.Davison.Robert.pdf)
 
+[Solutions to Challenge Exercises.pdf](https://github.com/ccy05327/CM/files/6357087/Solutions.to.Challenge.Exercises.pdf)
+
+
 #### Supplment
 [Mathematics for Computer Graphics by John Vince.pdf](https://github.com/waystolearn/CM/files/6119984/Mathematics.for.Computer.Graphics.PDFDrive.pdf)
 
